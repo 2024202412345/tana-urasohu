@@ -1,5 +1,0 @@
-title: "ターナ高等学校"  # サイトのタイトル
-description: "this is joke site"  # サイトの説明
-baseurl: "tana-urasohu"  # ルートURL (GitHub Pages用ならリポジトリ名を指定)
-url: "https://2024202412345.github.io/tana-urasohu/"  # サイトの公開URL
-theme: minima  # デフォルトテーマ (必要に応じて変更)
