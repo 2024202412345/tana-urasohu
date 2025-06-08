@@ -1,4 +1,0 @@
-title: "ターナ高等学校"
-description: "it is website"
-theme: minima
-
